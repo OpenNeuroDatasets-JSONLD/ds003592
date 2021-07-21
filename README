@@ -4,6 +4,8 @@ Data included as part of: Functional architecture of the aging brain (preprint:h
 
 Two 10-minute multi-echo resting-state runs were collected from 301 healthy adults (181 younger, 120 older adults) across 2 sites. Acquisition parameters are summarized below. Full detail can be found in the above preprint and forthcoming data descriptor.
 
+A subset of 258 participants also have T2-FLAIR images. Pulse and respiration data are available for 233 participants.
+
 **NOTE** Some participants were included as part of another openneuro dataset (DuPre et al, 2018; OpenNeuro Accession Number: ds000210), as noted by 'openneuro' in the participants file.
 
 Site 1
@@ -13,6 +15,14 @@ TE = 3.4ms
 Flip angle = 7 degrees
 Voxel size = 1mm isotropic
 Time = 5m25s
+
+FLAIR:
+TR = 12000ms
+TE = 95ms
+TI = 2712ms
+Flip angle = 160 degrees
+Voxel size = 1x1x3mm
+Time = 2m36s
 
 Rest:
 TR = 3000ms
@@ -31,6 +41,14 @@ TE = 2.52 ms
 Flip angle = 9 degrees
 Voxel size = 1mm isotropic
 Time = 4m26s
+
+FLAIR:
+TR = 12000ms
+TE = 95ms
+TI = 2759.4ms
+Flip angle = 160 degrees
+Voxel size = .8x.8x3mm
+Time = 3m38s
 
 Rest:
 TR = 3000ms
