@@ -1,0 +1,11 @@
+{
+	"gender": "0=Men, 1=Women",
+	"site": "1=Ithaca,NY, 2=Toronto, Canada",
+	"agegroup": "1=younger adults, 2=older adults",
+	"age": "participant age in years",
+	"education": "participant education in years",
+	"openneuro": "0=not part of other openneuro dataset, 1=part of existing openneuro dataset (ds000210)",
+	"flair_slicediff":"0=matches acquisition parameters,1=different number of slices",
+	"rest_slicediff":"0=matches acquisition parameters, 1=different number of slices"
+
+}
