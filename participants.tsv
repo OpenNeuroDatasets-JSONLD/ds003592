@@ -1,4 +1,4 @@
-participant_id	sex	site	agegroup	age	education	openneuro	flair_slicediff	rest_slicediff
+participant_id	sex	site	agegroup	age	education	openneuro	flair_slicediff	rest_voldiff
 sub-01	F	1	Y	21	15	0	1	0
 sub-02	F	1	O	73	16	0	0	0
 sub-03	F	1	O	77	16	0	0	0
