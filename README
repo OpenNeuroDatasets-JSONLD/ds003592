@@ -24,7 +24,7 @@ TI = 2712ms
 Flip angle = 160 degrees
 Voxel size = 1x1x3mm
 Time = 2m36s
-42 slices (12 participants have 46, see participants.tsv)
+42 slices (11 participants have 46, 1 has 43; see participants.tsv)
 
 Rest:
 TR = 3000ms
@@ -33,7 +33,7 @@ Flip angle = 83 degrees
 Voxel size = 3mm isotropic
 Time = 10m06s
 Sessions = 2
-204 volumes/session (1 participant has 206, see participants.tsv)
+204 volumes/session (1 participant has 206; see participants.tsv)
 
 
 
