@@ -15,6 +15,7 @@ TE = 3.4ms
 Flip angle = 7 degrees
 Voxel size = 1mm isotropic
 Time = 5m25s
+176 slices
 
 FLAIR:
 TR = 12000ms
@@ -23,6 +24,7 @@ TI = 2712ms
 Flip angle = 160 degrees
 Voxel size = 1x1x3mm
 Time = 2m36s
+42 slices (12 participants have 46, see participants.tsv)
 
 Rest:
 TR = 3000ms
@@ -31,6 +33,7 @@ Flip angle = 83 degrees
 Voxel size = 3mm isotropic
 Time = 10m06s
 Sessions = 2
+204 volumes/session (1 participant has 206, see participants.tsv)
 
 
 
@@ -41,6 +44,7 @@ TE = 2.52 ms
 Flip angle = 9 degrees
 Voxel size = 1mm isotropic
 Time = 4m26s
+192 slices
 
 FLAIR:
 TR = 12000ms
@@ -49,6 +53,7 @@ TI = 2759.4ms
 Flip angle = 160 degrees
 Voxel size = .8x.8x3mm
 Time = 3m38s
+44 slices
 
 Rest:
 TR = 3000ms
@@ -57,3 +62,4 @@ Flip angle = 83 degrees
 Voxel size = 3.4mm x 3.4mm x 3mm
 Time = 10m06s
 Sessions = 2
+200 volumes
