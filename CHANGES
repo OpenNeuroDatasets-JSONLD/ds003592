@@ -1,3 +1,5 @@
+1.0.5 2022-01-18
+  - amended readme and dataset_description.json, added participants.json, stripped old file names from metadata of .gz files
 1.0.4 2022-01-18
   - Fixed readme and dataset_description.json, added participants.json, stripped old filenames from .gz metadata
 1.0.3 2021-07-30
