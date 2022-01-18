@@ -2,7 +2,7 @@ Neurocognitive aging data release with behavioral, structural, and multi-echo fu
 
 Data included as part of: Age differences in the functional architecture of the human brain (preprint: https://www.biorxiv.org/content/10.1101/2021.03.31.437922v3)
 
-Two 10-minute multi-echo resting-state runs were collected from 301 healthy adults (181 younger, 120 older adults) across 2 sites. Acquisition parameters are summarized below. A subset of 246 participants also have T2-FLAIR images. Pulse and respiration data are available for 233 participants. Full detail can be found in the above preprint and forthcoming data descriptor. Accompany behavioral data can be found on OSF: https://osf.io/yhzxe/
+Two 10-minute multi-echo resting-state runs were collected from 301 healthy adults (181 younger, 120 older adults) across 2 sites. Acquisition parameters are summarized below. A subset of 246 participants also have T2-FLAIR images. Pulse and respiration data are available for 233 participants. Full detail can be found in the above preprint and forthcoming data descriptor. Accompanying behavioral data can be found on OSF: https://osf.io/yhzxe/ (doi: 10.17605/OSF.IO/YHZXE).
 
 **NOTE** Some participants were included as part of another openneuro dataset (DuPre et al, 2018; OpenNeuro Accession Number: ds000210), as noted by 'openneuro' in the participants file.
 
@@ -61,4 +61,4 @@ Flip angle = 83 degrees
 Voxel size = 3.4mm x 3.4mm x 3mm
 Time = 10m06s
 Sessions = 2
-200 volumes
+200 volumes/session
