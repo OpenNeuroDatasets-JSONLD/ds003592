@@ -1,0 +1,21 @@
+1.0.10 2022-03-31
+  - Updated ReadMe with data descriptor details
+1.0.9 2022-03-31
+  - json files for site 2 updated
+1.0.8 2022-03-22
+  - 2 BOLD files re-uploaded due to incomplete initial upload.
+1.0.7 2022-03-01
+  - added doi for published paper
+1.0.6 2022-01-18
+  - edited readme with updated OSF info
+1.0.5 2022-01-18
+  - minor adjustments to accessory files
+  - stripped metadata from gz files
+1.0.4 2022-01-18
+  - Fixed readme and dataset_description.json, added participants.json
+1.0.3 2021-07-30
+  - physio data added for subset of participants, README updated with FLAIR acquisition parameters
+1.0.2 2021-04-01
+  - Added preprint
+1.0.1 2021-04-01
+  - Finished bulk upload
