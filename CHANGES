@@ -1,3 +1,5 @@
+1.0.13 2022-11-14
+  - Updated 2 files that did not upload properly (sub-35_ses-2_task-rest_echo-1_bold.nii.gz, and sub-117_ses-2_task-rest_echo-1_bold.nii.gz)
 1.0.12 2022-11-11
   - Updated 3 files that did not upload properly (sub-33_ses-2_task-rest_echo-1_bold.nii.gz, sub-35_ses-2_task-rest_echo-2_bold.nii.gz, and sub-117_ses-2_task-rest_echo-2_bold.nii.gz).
 1.0.11 2022-05-02
