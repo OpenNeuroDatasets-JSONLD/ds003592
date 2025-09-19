@@ -25,7 +25,8 @@
 " ",
 "nan",
 "n/a"
-]
+],
+"VariableType": "Categorical"
 }
 },
 "site": {
@@ -50,15 +51,16 @@
 "TermURL": "nb:Age",
 "Label": ""
 },
-"Transformation": {
-"TermURL": "nb:FromBounded",
-"Label": "bounded data"
-},
 "MissingValues": [
 "",
 "n/a",
 " "
-]
+],
+"Format": {
+"TermURL": "nb:FromBounded",
+"Label": "bounded data"
+},
+"VariableType": "Continuous"
 }
 },
 "education": {
@@ -92,7 +94,7 @@
 "TermURL": "nb:ParticipantID",
 "Label": ""
 },
-"Identifies": "participant"
+"VariableType": "Identifier"
 },
 "Description": "There should have been a description here, but there wasn't. :("
 }
